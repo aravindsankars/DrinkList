@@ -4,6 +4,11 @@ A web application that allows users to manage a list of drinks, including adding
 ⚬Deployed the frontend to AWS S3 and the backend to an AWS EC2 instance.
 ⚬Utilized AWS CloudFront for CDN to improve content delivery.
 
+Key Features:
+User Interaction: Users can add, edit, and delete drinks with descriptions and prices.
+API Integration: Backend APIs handle drink data and ensure smooth communication with the frontend.
+Secure Deployment: Utilized AWS services for a secure, scalable, and efficient deployment.
+
 # API Endpoints:
 drinks/: Endpoint for managing drinks.
 drinks/<id>/: Endpoint for individual drink operations.
