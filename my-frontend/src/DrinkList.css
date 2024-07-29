@@ -1,0 +1,78 @@
+/* src/DrinkList.css */
+
+/* Styles for the body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Styles for the main container */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styles for the main heading */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Styles for the list of drinks */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Styles for each drink item */
+  li {
+    background-color: #e8e8e8;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Styles for the drink item text */
+  li span {
+    font-weight: bold;
+  }
+  
+  /* Styles for the form */
+  form {
+    margin-top: 20px;
+  }
+  
+  /* Styles for the form input fields */
+  form input {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: calc(100% - 24px);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Styles for the form submit button */
+  form button {
+    padding: 10px;
+    width: 100%;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Styles for the form submit button on hover */
+  form button:hover {
+    background-color: #218838;
+  }
+  
