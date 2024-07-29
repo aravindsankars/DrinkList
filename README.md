@@ -9,9 +9,9 @@ drinks/: Endpoint for managing drinks.
 drinks/<id>/: Endpoint for individual drink operations.
 
 # Tech Stack:
-⚬Frontend: React.js
-⚬Backend: Django and Django REST framework
-⚬Hosting and Deployment: AWS S3, AWS EC2, AWS CloudFront, Custom VPC
+⚬Frontend: React.js.
+⚬Backend: Django and Django REST framework.
+⚬Hosting and Deployment: AWS S3, AWS EC2, AWS CloudFront.
 
 
 ![image](https://github.com/user-attachments/assets/8fc2afa8-10cc-4472-a87b-ebdd7edaf26d)
